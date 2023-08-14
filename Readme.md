@@ -83,6 +83,7 @@ The step-by-step process for creating each VM is shown below,
 <img src="./assets/backend-004.jpg" alt="backend-004.jpg"/>
 
 </details>
+<details>
 <summary>Creating Database </summary><br/>
 
 <img src="./assets/db-001.jpg" alt="db-001.jpg"/>
@@ -187,7 +188,7 @@ npm Install
 </details>
 <br/>
 
-Install Command
+
 
 
 
