@@ -120,7 +120,8 @@ Now, we can test the connection between the VPC using `ping` command which sends
 
 </details>
 <br/>
-###  Install nginx on VM
+
+### Install Nginx on VM
 <details>
 <summary>Install <code>nginx on VM </code></summary><br/>
 <img src="./assets/lb-nginx-001.jpg" alt=""/>
