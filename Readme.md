@@ -141,9 +141,10 @@ Now, we can test the connection between the VPC using `ping` command which sends
 <img src="./assets/fronend-nodejs-yarn-check.jpg" alt=""/>
 </details>
 <br/>
-### Using Debian, as root
+
+### using Debian, as root
 ```
-    curl -fsSL https://deb.nodesource.com/setup_16.x | bash - &&\
+  curl -fsSL https://deb.nodesource.com/setup_16.x | bash - &&\
     apt-get install -y nodejs
 ```
 ### Service Container Setup
